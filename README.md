@@ -4,11 +4,11 @@ My learning journey through the **Foundational C# with Microsoft Certification**
 
 This repository documents my progress, exercises, notes, challenges, and projects while learning C# through Microsoft Learn and freeCodeCamp.
 
-## 🎯 Goal
+## Goal
 
 Complete the Foundational C# curriculum, earn the required Microsoft Learn trophies, complete the freeCodeCamp verification requirements, and pass the Foundational C# with Microsoft Certification Exam.
 
-## 📚 Curriculum
+## Curriculum
 
 - [ ] Write Your First Code Using C#
 - [ ] Create and Run Simple C# Console Applications
@@ -18,7 +18,7 @@ Complete the Foundational C# curriculum, earn the required Microsoft Learn troph
 - [ ] Debug C# Console Applications
 - [ ] Pass the Foundational C# with Microsoft Certification Exam
 
-## ️ Repository Structure
+## Repository Structure
 
 ```text
 foundational-csharp/
@@ -118,7 +118,7 @@ foundational-csharp/
 
 Each curriculum section contains the code, exercises, notes, and relevant documentation for that part of the course.
 
-## 📝 Documentation Philosophy
+## Documentation Philosophy
 
 This repository uses a three-level documentation hierarchy:
 
@@ -128,7 +128,7 @@ This repository uses a three-level documentation hierarchy:
 
 Documentation follows the ASD-STE100 Simplified Technical English standard for clarity and consistency.
 
-## 🛠️ Technologies
+## Technologies
 
 - **C#** - Primary programming language
 - **.NET** - Development platform
@@ -138,7 +138,7 @@ Documentation follows the ASD-STE100 Simplified Technical English standard for c
 - **Git** - Version control
 - **GitHub** - Repository hosting
 
-## 📜 Certification
+## Certification
 
 **Foundational C# with Microsoft Certification**
 
