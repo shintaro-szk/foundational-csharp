@@ -23,3 +23,7 @@
 ## Debugging
 
 ## Common Errors
+
+## .NET / CLI Commands
+
+## Git & GitHub Notes
