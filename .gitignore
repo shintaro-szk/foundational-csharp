@@ -427,5 +427,4 @@ FodyWeavers.xsd
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
 
-# AI instruction and organization file - local use only
 BLUEPRINT.md
